@@ -5,7 +5,11 @@ date: "2024-09-05"
 output: html_document
 ---
 
+<<<<<<< HEAD
 I would never!
+=======
+Conflict (un)resolved.
+>>>>>>> caa0773cf13429187ca088785a68000448ffc7c1
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
