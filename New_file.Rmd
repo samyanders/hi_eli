@@ -10,6 +10,8 @@ Conflict (un)resolved.
 
 Niceness!!
 
+Have a great weekend Eli!
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
